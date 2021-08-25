@@ -3,3 +3,7 @@ const multiply = (p,q) => {
 }
 
 multiply(4,10);
+const divide = (x,y) => {
+    console.log(Math.floor(x/y));
+}
+divide(45,7);
